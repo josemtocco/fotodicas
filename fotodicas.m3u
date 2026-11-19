@@ -4,7 +4,7 @@ https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-english" tvg-name="Al Jazeera English" tvg-logo="https://fotodicas.com/img/al-jazeera-english.webp" group-title="Notícias",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="canal-rural" tvg-name="Canal Rural" tvg-logo="https://fotodicas.com/img/canal-rural.webp" group-title="Notícias",Canal Rural
-https://stream01.canalrural.com.br/crur/cr2/playlist.m3u8
+https://isaocorp.cloudecast.com/canalrural/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cbs-news-24" tvg-name="CBS News 24/7" tvg-logo="https://fotodicas.com/img/cbs_news.webp" group-title="Notícias",CBS News 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="dw-news" tvg-name="DW News" tvg-logo="https://fotodicas.com/img/dw-news.webp" group-title="Notícias",DW News
@@ -77,6 +77,8 @@ https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="sbt-cuiaba-mt" tvg-name="SBT Cuiabá" tvg-logo="" group-title="SBT",SBT Cuiabá
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 tvg-id="sbt-interior" tvg-name="SBT Interior (SP)" tvg-logo="" group-title="SBT",SBT Interior (SP)
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv-aratu-sbt-bahia" tvg-name="TV Aratu" tvg-logo="" group-title="SBT",TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv-cidade-verde-sbt-pi" tvg-name="TV Cidade Verde" tvg-logo="" group-title="SBT",TV Cidade Verde
@@ -100,8 +102,8 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-carioca.net" tvg-name="TV Carioca" tvg-logo="https://fotodicas.com/img/tv-carioca.webp" group-title="Filmes",TV Carioca
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w527646062.m3u8
 #EXTINF:-1 tvg-id="tv-classicos" tvg-name="TV Clássicos" tvg-logo="https://fotodicas.com/img/tv-classicos.webp" group-title="Filmes",TV Clássicos
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="tv-digital-birigui" tvg-name="TV Digital Birigui" tvg-logo="https://fotodicas.com/img/tv-digital-birigui.webp" group-title="Filmes",TV Digital Birigui
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-id="digital-birigui" tvg-name="TV Digital Birigui" tvg-logo="https://fotodicas.com/img/tv-digital-birigui.webp" group-title="Filmes",TV Digital Birigui
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-j-sid" tvg-name="TV J.Sid" tvg-logo="" group-title="Filmes",TV J.Sid
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
@@ -114,7 +116,7 @@ https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-universal" tvg-name="Igreja Universal" tvg-logo="https://fotodicas.com/img/tv-universal.webp" group-title="Religiosos",Igreja Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0fbddf6a-70ed-4128-aef8-f545603a1386.m3u8
 #EXTINF:-1 tvg-id="rit-tv" tvg-name="RIT TV" tvg-logo="https://fotodicas.com/img/rit-tv.webp" group-title="Religiosos",RIT TV
-https://acesso.ecast.site:3648/live/ritlive.m3u8
+https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV-Evangelizar" tvg-name="TV Evangelizar" tvg-logo="https://fotodicas.com/img/tv-evangelizar.webp" group-title="Religiosos",TV Evangelizar
 https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8
 #EXTINF:-1 tvg-id="tv-igreja-mundial" tvg-name="TV Igreja Mundial" tvg-logo="https://fotodicas.com/img/tv-igreja-mundial.webp" group-title="Religiosos",TV Igreja Mundial
@@ -140,7 +142,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-id="retro-music" tvg-name="Retro Music Television" tvg-logo="https://fotodicas.com/img/retro-music-television.webp" group-title="Música",Retro Music Television
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="retro-plus" tvg-name="Retro Plus" tvg-logo="https://fotodicas.com/img/retro-plus.webp" group-title="Música",Retro Plus
-https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w146572337.m3u8
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 #EXTINF:-1 tvg-id="top-mix-tv" tvg-name="TOP Mix TV" tvg-logo="https://fotodicas.com/img/top-mix-tv.webp" group-title="Música",TOP Mix TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-id="top-tv" tvg-name="Top TV" tvg-logo="https://fotodicas.com/img/top-tv.webp" group-title="Música",Top TV
@@ -161,7 +163,7 @@ https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-brasil" tvg-name="Rede Brasil" tvg-logo="https://fotodicas.com/img/rede-brasil.webp" group-title="TV Aberta",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="tv-brasil-2" tvg-name="TV Brasil 2" tvg-logo="https://fotodicas.com/img/tv-brasil2.webp" group-title="TV Aberta",TV Brasil 2
+#EXTINF:-1 tvg-id="tv-brasil" tvg-name="TV Brasil" tvg-logo="" group-title="TV Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="tv-brasil-internacional" tvg-name="TV Brasil Internacional" tvg-logo="https://fotodicas.com/img/tv-brasil-internacional.webp" group-title="TV Aberta",TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
@@ -201,8 +203,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/index.m3u8
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1074554632.m3u8
 #EXTINF:-1 tvg-id="tela-viva-tv" tvg-name="Tela Viva" tvg-logo="https://fotodicas.com/img/tela-viva.webp" group-title="Outros",Tela Viva
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-#EXTINF:-1 tvg-id="top-tv-parana" tvg-name="TOP TV Paraná" tvg-logo="" group-title="Outros",TOP TV Paraná
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv-alternativa-gazeta-ma" tvg-name="TV Alternativa" tvg-logo="" group-title="Outros",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-camara" tvg-name="TV Câmara dos Deputados" tvg-logo="" group-title="Outros",TV Câmara dos Deputados
