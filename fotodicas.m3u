@@ -11,18 +11,12 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="jovem-pan-news" tvg-name="Jovem Pan News" tvg-logo="https://fotodicas.com/img/jovem-pan-news.webp" group-title="Notícias",Jovem Pan News
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-id="nhk-world-japan" tvg-name="NHK World" tvg-logo="https://fotodicas.com/img/nhk-world-japan.webp" group-title="Notícias",NHK World
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="rai-news-24" tvg-name="Rai News 24" tvg-logo="https://fotodicas.com/img/rai-news-24.webp" group-title="Notícias",Rai News 24
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-id="record-news" tvg-name="Record News" tvg-logo="https://fotodicas.com/img/record-news.webp" group-title="Notícias",Record News
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-id="sky-news" tvg-name="Sky News" tvg-logo="https://fotodicas.com/img/sky-news.webp" group-title="Notícias",Sky News
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="tv-jornal-interior-caruaru" tvg-name="TV Jornal Interior" tvg-logo="" group-title="Notícias",TV Jornal Interior
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8
-#EXTINF:-1 tvg-id="tv-osorio-news" tvg-name="TV Osório News" tvg-logo="https://fotodicas.com/img/tv-osorio-news.webp" group-title="Notícias",TV Osório News
-https://stmv2.srvsh.com.br/0614/0614/chunklist_w1498757893.m3u8
 #EXTINF:-1 tvg-id="eptv-central" tvg-name="EPTV Central" tvg-logo="" group-title="Globo",EPTV Central
 https://stlvs.click/globosp-eptvcentral/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="inter-tv-serramar" tvg-name="Inter TV Serra Mar" tvg-logo="" group-title="Globo",Inter TV Serra Mar
@@ -35,8 +29,6 @@ https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/chunklist_w1690325563.m3u
 https://stlvs.click/globosp-tvvanguardasjcampos/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="record-tv-belem-para" tvg-name="Record Belém" tvg-logo="" group-title="Record",Record Belém
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="recordtv-cabralia-bahia" tvg-name="Record Cabrália" tvg-logo="" group-title="Record",Record Cabrália
-https://alanza.iptv2022.com/sh/RecordTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="record-mt-tv-conquista" tvg-name="Record MT. Tv Conquista" tvg-logo="https://fotodicas.com/img/tv-conquista.webp" group-title="Record",Record MT. Tv Conquista
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="tv-vila-real-record-mt" tvg-name="Record MT. TV Vila Real" tvg-logo="" group-title="Record",Record MT. TV Vila Real
@@ -79,6 +71,8 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 #EXTINF:-1 tvg-id="sbt-interior" tvg-name="SBT Interior (SP)" tvg-logo="" group-title="SBT",SBT Interior (SP)
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="sbt-rondonopolis-mt" tvg-name="SBT Rondonópolis" tvg-logo="" group-title="SBT",SBT Rondonópolis
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8
 #EXTINF:-1 tvg-id="tv-aratu-sbt-bahia" tvg-name="TV Aratu" tvg-logo="" group-title="SBT",TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv-cidade-verde-sbt-pi" tvg-name="TV Cidade Verde" tvg-logo="" group-title="SBT",TV Cidade Verde
@@ -153,8 +147,6 @@ https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tr
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_2.m3u8
 #EXTINF:-1 tvg-id="amazon-sat" tvg-name="Amazon Sat" tvg-logo="https://fotodicas.com/img/amazon_sat.webp" group-title="Documentário",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="nasa-tv" tvg-name="Nasa TV" tvg-logo="https://fotodicas.com/img/nasa-tv.webp" group-title="Documentário",Nasa TV
-https://nasaplus.akamaized.net/output/14697-0.m3u8
 #EXTINF:-1 tvg-id="canal-futura" tvg-name="Canal Futura" tvg-logo="https://fotodicas.com/img/canal-futura.webp" group-title="TV Aberta",Canal Futura
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-id="masterchef-brasil" tvg-name="MasterChef Brasil" tvg-logo="https://fotodicas.com/img/masterchef-brasil.webp" group-title="TV Aberta",MasterChef Brasil
@@ -187,8 +179,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="nova-barreiros-web-tv" tvg-name="Nova Barreiros Web TV" tvg-logo="" group-title="Outros",Nova Barreiros Web TV
 https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
-#EXTINF:-1 tvg-id="pptv-channel" tvg-name="PPTV Channel" tvg-logo="" group-title="Outros",PPTV Channel
-https://srv5.zcast.com.br/rbr/rbr/chunklist_w1843087781.m3u8
 #EXTINF:-1 tvg-id="rede-clone" tvg-name="Rede Clone TV" tvg-logo="" group-title="Outros",Rede Clone TV
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/master.m3u8
 #EXTINF:-1 tvg-id="rede-familia" tvg-name="Rede Família" tvg-logo="" group-title="Outros",Rede Família
@@ -201,14 +191,10 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/index.m3u8
 #EXTINF:-1 tvg-id="series-classicas" tvg-name="Séries Clássicas" tvg-logo="https://fotodicas.com/img/series-classicas.webp" group-title="Outros",Séries Clássicas
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1074554632.m3u8
-#EXTINF:-1 tvg-id="tela-viva-tv" tvg-name="Tela Viva" tvg-logo="https://fotodicas.com/img/tela-viva.webp" group-title="Outros",Tela Viva
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:-1 tvg-id="top-tv-parana" tvg-name="TOP TV Paraná" tvg-logo="" group-title="Outros",TOP TV Paraná
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv-alternativa-gazeta-ma" tvg-name="TV Alternativa" tvg-logo="" group-title="Outros",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-camara" tvg-name="TV Câmara dos Deputados" tvg-logo="" group-title="Outros",TV Câmara dos Deputados
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="tv-destak" tvg-name="TV Destak" tvg-logo="https://fotodicas.com/img/tv-destak.webp" group-title="Outros",TV Destak
 https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-equinocio-macapa-amapa" tvg-name="TV Equinócio" tvg-logo="" group-title="Outros",TV Equinócio
@@ -222,7 +208,7 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-master" tvg-name="TV Master" tvg-logo="" group-title="Outros",TV Master
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-nova-play" tvg-name="TV Nova Play" tvg-logo="https://fotodicas.com/img/tv-nova-play.webp" group-title="Outros",TV Nova Play
-https://stream1.freetv.fun/play-tv-1.m3u8
+https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv-sul-bahia" tvg-name="TV Sul Bahia" tvg-logo="" group-title="Outros",TV Sul Bahia
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="tve-rs" tvg-name="TVE RS" tvg-logo="" group-title="Outros",TVE RS
