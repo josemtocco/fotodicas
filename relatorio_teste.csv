@@ -11,7 +11,7 @@ Band Minas (MG);Band;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-1574
 Band Paraná (PR);Band;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 Band Pará, RBA TV;Band;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 Band Paulista (SP);Band;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-Band RS, Porto Alegre (RS);Band;quebrado;sem resposta;5;https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w623985217_b1596000.m3u8
+Band RS, Porto Alegre (RS);Band;quebrado;sem resposta;6;https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w623985217_b1596000.m3u8
 Band Rio (RJ);Band;embed;player de terceiros (sem link direto);6;
 Band São Paulo (SP);Band;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 TV Arapuan (Band PB);Band;youtube;player do YouTube (nao abre no SS IPTV);6;
@@ -34,7 +34,7 @@ Casablanca (1942);Filmes;sem_link;sem link no site;6;
 Classique TV;Filmes;ok;video ok;0;https://stmv1.srvif.com/classique/classique/playlist.m3u8
 Classique Western;Filmes;ok;video ok;0;https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
 Gospel Movie Television;Filmes;ok;video ok;0;https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-TV Aracati;Filmes;quebrado;sem resposta;1;https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+TV Aracati;Filmes;quebrado;sem resposta;2;https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 TV Carioca;Filmes;ok;video ok;0;https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w527646062.m3u8
 TV Clássicos;Filmes;ok;video ok;0;https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 TV Digital Birigui;Filmes;ok;video ok;0;https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
@@ -113,11 +113,11 @@ Assista TV Amplitude de Juína (MT) Online Grátis em;Outros;ok;video ok;0;https
 Assistir NSC TV Florianópolis;Outros;sem_link;sem link no site;6;
 Assistir TV Amplitude de Juara;Outros;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 CATVE;Outros;ok;video ok;0;https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w722768048.m3u8
-CBN Rio (RJ);Outros;sem_link;sem link no site;5;
-CBN SP;Outros;sem_link;sem link no site;5;
+CBN Rio (RJ);Outros;sem_link;sem link no site;6;
+CBN SP;Outros;sem_link;sem link no site;6;
 CNN Brasil Money;Outros;youtube;player do YouTube (nao abre no SS IPTV);6;
 CNT Bahia Ao Vivo e;Outros;embed;player de terceiros (sem link direto);6;
-Cinemais Ao Vivo e;Outros;embed;player de terceiros (sem link direto);5;
+Cinemais Ao Vivo e;Outros;embed;player de terceiros (sem link direto);6;
 DW Brasil;Outros;youtube;player do YouTube (nao abre no SS IPTV);6;
 DW English;Outros;ok;video ok;0;https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 DW Español;Outros;ok;video ok;0;https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -236,10 +236,10 @@ Rede Vida;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 Santuário de Fátima;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Aparecida;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Canção Nova;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
-TV Evangelizar;Religiosos;quebrado;sem resposta;3;https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8
-TV Igreja Mundial;Religiosos;quebrado;sem resposta;1;https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+TV Evangelizar;Religiosos;quebrado;sem resposta;4;https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8
+TV Igreja Mundial;Religiosos;ok;video ok;0;https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 TV Novo Tempo;Religiosos;inconclusivo;rede: URLError;0;https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-TV Pai Eterno;Religiosos;ok;video ok;0;https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
+TV Pai Eterno;Religiosos;quebrado;sem resposta;1;https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
 TV Século 21;Religiosos;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
 Rádio Jovem Pan News;Rádios;inconclusivo;rede: URLError;0;https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_2.m3u8
 Assistir SBT MS Ao Vivo Online em;SBT;quebrado;sem resposta;6;https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8

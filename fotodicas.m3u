@@ -45,8 +45,6 @@ https://vipwaytvcdn.multtv.tv.br:5443/TVThathi_Band/index.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="rbatv-band-para" tvg-name="Band Pará  RBA TV" tvg-logo="https://fotodicas.com/img/rbatv-band-para.webp" group-title="Band",Band Pará  RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-#EXTINF:-1 tvg-id="band-rs-porto-alegre-rs" tvg-name="Band RS  Porto Alegre (RS)" tvg-logo="" group-title="Band",Band RS  Porto Alegre (RS)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w623985217_b1596000.m3u8
 #EXTINF:-1 tvg-id="imperial-tv" tvg-name="Imperial Tv (RedeTv)" tvg-logo="https://fotodicas.com/img/imperial-tv.webp" group-title="RedeTV",Imperial Tv (RedeTv)
 https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
 #EXTINF:-1 tvg-id="o-dia-redetv-piaui" tvg-name="O Dia TV" tvg-logo="" group-title="RedeTV",O Dia TV
