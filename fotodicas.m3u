@@ -17,6 +17,8 @@ https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-id="sky-news" tvg-name="Sky News" tvg-logo="https://fotodicas.com/img/sky-news.webp" group-title="Notícias",Sky News
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="tv-osorio-news" tvg-name="TV Osório News" tvg-logo="https://fotodicas.com/img/tv-osorio-news.webp" group-title="Notícias",TV Osório News
+https://stmv2.srvsh.com.br/0003/0003/chunklist_w1580813999.m3u8
 #EXTINF:-1 tvg-id="eptv-central" tvg-name="EPTV Central" tvg-logo="" group-title="Globo",EPTV Central
 https://stlvs.click/globosp-eptvcentral/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="inter-tv-serramar" tvg-name="Inter TV Serra Mar" tvg-logo="" group-title="Globo",Inter TV Serra Mar
@@ -37,6 +39,8 @@ https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 #EXTINF:-1 tvg-id="sic-tv-rondonia" tvg-name="Record RO. Sic Tv Rondônia" tvg-logo="" group-title="Record",Record RO. Sic Tv Rondônia
 https://5b33b873179a2.streamlock.net:1443/canal17/livestream/chunklist_w1103931632.m3u8
+#EXTINF:-1 tvg-id="tv-thathi-record-campinas" tvg-name="TV Thathi" tvg-logo="" group-title="Record",TV Thathi
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w401498443.m3u8
 #EXTINF:-1 tvg-id="tv-thathi-campinas" tvg-name="TV Thathi Record" tvg-logo="" group-title="Record",TV Thathi Record
 https://vipwaytvcdn.multtv.tv.br:5443/TVThathi_Band/index.m3u8
 #EXTINF:-1 tvg-id="band-campinas" tvg-name="Band Campinas (SP)" tvg-logo="https://fotodicas.com/img/band-campinas.webp" group-title="Band",Band Campinas (SP)
@@ -96,25 +100,23 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="digital-birigui" tvg-name="TV Digital Birigui" tvg-logo="https://fotodicas.com/img/tv-digital-birigui.webp" group-title="Filmes",TV Digital Birigui
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-j-sid" tvg-name="TV J.Sid" tvg-logo="" group-title="Filmes",TV J.Sid
-https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-mega-cine" tvg-name="TV Megacine" tvg-logo="https://fotodicas.com/img/tv-megacine.webp" group-title="Filmes",TV Megacine
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-series" tvg-name="TV Séries" tvg-logo="https://fotodicas.com/img/tv-series.webp" group-title="Filmes",TV Séries
+https://video05.logicahost.com.br/tvjsid/tvjsid/main_stream.m3u8
+#EXTINF:-1 tvg-id="tv-manchete" tvg-name="TV Manchete" tvg-logo="https://fotodicas.com/img/tv-manchete.webp" group-title="Filmes",TV Manchete
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mega-cine" tvg-name="TV Megacine" tvg-logo="https://fotodicas.com/img/tv-megacine.webp" group-title="Filmes",TV Megacine
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="web-tv-xtreme" tvg-name="Web TV Xtreme" tvg-logo="https://fotodicas.com/img/web-tv-xtreme.webp" group-title="Filmes",Web TV Xtreme
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-universal" tvg-name="Igreja Universal" tvg-logo="https://fotodicas.com/img/tv-universal.webp" group-title="Religiosos",Igreja Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0fbddf6a-70ed-4128-aef8-f545603a1386.m3u8
 #EXTINF:-1 tvg-id="rit-tv" tvg-name="RIT TV" tvg-logo="https://fotodicas.com/img/rit-tv.webp" group-title="Religiosos",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-id="tv-evangelizar" tvg-name="TV Evangelizar" tvg-logo="https://fotodicas.com/img/tv-evangelizar.webp" group-title="Religiosos",TV Evangelizar
-https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8
 #EXTINF:-1 tvg-id="tv-igreja-mundial" tvg-name="TV Igreja Mundial" tvg-logo="https://fotodicas.com/img/tv-igreja-mundial.webp" group-title="Religiosos",TV Igreja Mundial
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="tv-novo-tempo" tvg-name="TV Novo Tempo" tvg-logo="https://fotodicas.com/img/novo-tempo.webp" group-title="Religiosos",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 #EXTINF:-1 tvg-id="tv-pai-eterno" tvg-name="TV Pai Eterno" tvg-logo="https://fotodicas.com/img/tv-pai-eterno.webp" group-title="Religiosos",TV Pai Eterno
-https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
+https://video09.logicahost.com.br/paieterno/paieterno/main_stream.m3u8
 #EXTINF:-1 tvg-id="tv-seculo-21" tvg-name="TV Século 21" tvg-logo="https://fotodicas.com/img/tv-seculo-21.webp" group-title="Religiosos",TV Século 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
 #EXTINF:-1 tvg-id="gospel-cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://fotodicas.com/img/gospel-cartoon.webp" group-title="Desenhos",Gospel Cartoon
@@ -200,9 +202,13 @@ https://stlvs.click/globomg-tvintegracaouberaba/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv-japi" tvg-name="TV Japi" tvg-logo="https://fotodicas.com/img/tv-japi.webp" group-title="Outros",TV Japi
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-master" tvg-name="TV Master" tvg-logo="" group-title="Outros",TV Master
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1177863025.m3u8
 #EXTINF:-1 tvg-id="tv-nova-play" tvg-name="TV Nova Play" tvg-logo="https://fotodicas.com/img/tv-nova-play.webp" group-title="Outros",TV Nova Play
-https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/play-tv-1.m3u8
+#EXTINF:-1 tvg-id="tv-ouro-negro-bahia" tvg-name="TV Ouro Negro" tvg-logo="https://fotodicas.com/imagens/image_url_header.webp" group-title="Outros",TV Ouro Negro
+https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-pombal-bahia" tvg-name="TV Pombal" tvg-logo="https://fotodicas.com/img/tv-pombal-bahia.webp" group-title="Outros",TV Pombal
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/main_stream.m3u8
 #EXTINF:-1 tvg-id="tv-sul-bahia" tvg-name="TV Sul Bahia" tvg-logo="" group-title="Outros",TV Sul Bahia
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="tve-rs" tvg-name="TVE RS" tvg-logo="" group-title="Outros",TVE RS
