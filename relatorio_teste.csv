@@ -34,7 +34,7 @@ Casablanca (1942);Filmes;sem_link;sem link no site;6;
 Classique TV;Filmes;ok;video ok;0;https://stmv1.srvif.com/classique/classique/playlist.m3u8
 Classique Western;Filmes;ok;video ok;0;https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
 Gospel Movie Television;Filmes;ok;video ok;0;https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-TV Aracati;Filmes;quebrado;sem resposta;2;https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+TV Aracati;Filmes;quebrado;sem resposta;3;https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 TV Carioca;Filmes;ok;video ok;0;https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w527646062.m3u8
 TV Clássicos;Filmes;ok;video ok;0;https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 TV Digital Birigui;Filmes;ok;video ok;0;https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
@@ -229,17 +229,17 @@ TV São Luís;RedeTV;ok;video ok;0;https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8
 Assistir NSC TV;Religiosos;sem_link;sem link no site;6;
 Boa Vontade. LBV;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 Igreja Universal;Religiosos;ok;video ok;0;https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0fbddf6a-70ed-4128-aef8-f545603a1386.m3u8
-RIT TV;Religiosos;ok;video ok;0;https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+RIT TV;Religiosos;ok;video ok;0;https://acesso.ecast.site:3648/live/ritlive.m3u8
 Rede Brasil RBC;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 Rede Gospel;Religiosos;ok;video ok;0;https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 Rede Vida;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 Santuário de Fátima;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Aparecida;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Canção Nova;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
-TV Evangelizar;Religiosos;quebrado;sem resposta;4;https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8
+TV Evangelizar;Religiosos;quebrado;sem resposta;5;https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8
 TV Igreja Mundial;Religiosos;ok;video ok;0;https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 TV Novo Tempo;Religiosos;inconclusivo;rede: URLError;0;https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-TV Pai Eterno;Religiosos;quebrado;sem resposta;1;https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
+TV Pai Eterno;Religiosos;ok;video ok;0;https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
 TV Século 21;Religiosos;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
 Rádio Jovem Pan News;Rádios;inconclusivo;rede: URLError;0;https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_2.m3u8
 Assistir SBT MS Ao Vivo Online em;SBT;quebrado;sem resposta;6;https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8

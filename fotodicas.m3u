@@ -37,8 +37,6 @@ https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 #EXTINF:-1 tvg-id="sic-tv-rondonia" tvg-name="Record RO. Sic Tv Rondônia" tvg-logo="" group-title="Record",Record RO. Sic Tv Rondônia
 https://5b33b873179a2.streamlock.net:1443/canal17/livestream/chunklist_w1103931632.m3u8
-#EXTINF:-1 tvg-id="tv-cidade-fortaleza" tvg-name="TV Cidade Fortaleza (Record)" tvg-logo="" group-title="Record",TV Cidade Fortaleza (Record)
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="tv-thathi-campinas" tvg-name="TV Thathi Record" tvg-logo="" group-title="Record",TV Thathi Record
 https://vipwaytvcdn.multtv.tv.br:5443/TVThathi_Band/index.m3u8
 #EXTINF:-1 tvg-id="band-campinas" tvg-name="Band Campinas (SP)" tvg-logo="https://fotodicas.com/img/band-campinas.webp" group-title="Band",Band Campinas (SP)
@@ -108,7 +106,7 @@ https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-universal" tvg-name="Igreja Universal" tvg-logo="https://fotodicas.com/img/tv-universal.webp" group-title="Religiosos",Igreja Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0fbddf6a-70ed-4128-aef8-f545603a1386.m3u8
 #EXTINF:-1 tvg-id="rit-tv" tvg-name="RIT TV" tvg-logo="https://fotodicas.com/img/rit-tv.webp" group-title="Religiosos",RIT TV
-https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="tv-evangelizar" tvg-name="TV Evangelizar" tvg-logo="https://fotodicas.com/img/tv-evangelizar.webp" group-title="Religiosos",TV Evangelizar
 https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8
 #EXTINF:-1 tvg-id="tv-igreja-mundial" tvg-name="TV Igreja Mundial" tvg-logo="https://fotodicas.com/img/tv-igreja-mundial.webp" group-title="Religiosos",TV Igreja Mundial
@@ -181,8 +179,6 @@ https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/master.m3u8
 #EXTINF:-1 tvg-id="rede-familia" tvg-name="Rede Família" tvg-logo="" group-title="Outros",Rede Família
 https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
-#EXTINF:-1 tvg-id="rede-minas" tvg-name="Rede Minas" tvg-logo="" group-title="Outros",Rede Minas
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w449142325_b2771072.m3u8
 #EXTINF:-1 tvg-id="rede-web-tv-rwtv" tvg-name="Rede Web TV" tvg-logo="" group-title="Outros",Rede Web TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="rtp-madeira" tvg-name="RTP Madeira" tvg-logo="" group-title="Outros",RTP Madeira
