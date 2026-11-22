@@ -150,7 +150,7 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-id="amazon-sat" tvg-name="Amazon Sat" tvg-logo="https://fotodicas.com/img/amazon_sat.webp" group-title="Documentário",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="canal-futura" tvg-name="Canal Futura" tvg-logo="https://fotodicas.com/img/canal-futura.webp" group-title="TV Aberta",Canal Futura
-https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-id="masterchef-brasil" tvg-name="MasterChef Brasil" tvg-logo="https://fotodicas.com/img/masterchef-brasil.webp" group-title="TV Aberta",MasterChef Brasil
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c638884cb3e65cef046a0f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759f9bac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce02a4b43aa4d3d0733d4bb08aa7f4fc2d50e8c62288afbdc7c30280b5f820c5bb6f60cf5f8b55d448b38c3022d72b4179f0a6173e3e66ed992e229dc12cc2fad36b5a8c2e8a2301c525c51836ad13b1c4c2a3db88d7c81c05eb7a0f6019e1bc249347b77e7b681eb0c48eed69fee998da98c55857afd882ac15036ae0c9705e35aef3afd59f7b11ce7c5cfaed85f3378d0783787d9d656cb1520c295c6b1d3c8d0766e90f5153774c862e7122a2d9cf2f1e4e5a925bbb9398cb8651c7795df15dbd5858ae1b4825d8f65e4f3b4c96d0c1e3844358f53f4ce369b318b2cf38e0137061c11fed4058dc6fe5b336940c9d20e85434be88bdac3f90729cf661442a7318c084b3cbe410616d224f79e337b9a665bd5475ad56c75d112b2e856b0cdbcc80921bcd2cb43851ec9bc18d7f00db12d711935bafc2850525f3fb7ca631e3b6dcc55eeb09bb927e96162297d4ca6cff2dae08e5984a875b77bc768e5351c/180/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-id="play-tv" tvg-name="Play TV" tvg-logo="https://fotodicas.com/img/play-tv.webp" group-title="TV Aberta",Play TV
@@ -208,7 +208,7 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-master" tvg-name="TV Master" tvg-logo="" group-title="Outros",TV Master
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1177863025.m3u8
 #EXTINF:-1 tvg-id="tv-nova-play" tvg-name="TV Nova Play" tvg-logo="https://fotodicas.com/img/tv-nova-play.webp" group-title="Outros",TV Nova Play
-https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/play-tv-1.m3u8
 #EXTINF:-1 tvg-id="tv-ouro-negro-bahia" tvg-name="TV Ouro Negro" tvg-logo="https://fotodicas.com/imagens/image_url_header.webp" group-title="Outros",TV Ouro Negro
 https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-pombal-bahia" tvg-name="TV Pombal" tvg-logo="https://fotodicas.com/img/tv-pombal-bahia.webp" group-title="Outros",TV Pombal
