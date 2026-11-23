@@ -114,7 +114,7 @@ https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-universal" tvg-name="Igreja Universal" tvg-logo="https://fotodicas.com/img/tv-universal.webp" group-title="Religiosos",Igreja Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0fbddf6a-70ed-4128-aef8-f545603a1386.m3u8
 #EXTINF:-1 tvg-id="rit-tv" tvg-name="RIT TV" tvg-logo="https://fotodicas.com/img/rit-tv.webp" group-title="Religiosos",RIT TV
-https://acesso.ecast.site:3648/live/ritlive.m3u8
+https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv-igreja-mundial" tvg-name="TV Igreja Mundial" tvg-logo="https://fotodicas.com/img/tv-igreja-mundial.webp" group-title="Religiosos",TV Igreja Mundial
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="tv-novo-tempo" tvg-name="TV Novo Tempo" tvg-logo="https://fotodicas.com/img/novo-tempo.webp" group-title="Religiosos",TV Novo Tempo
