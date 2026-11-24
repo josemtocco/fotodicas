@@ -49,8 +49,8 @@ Assista TV Globo ES;Globo;sem_link;sem link no site;6;
 Assistir TV Cabo Branco;Globo;sem_link;sem link no site;6;
 Assistir TV Gazeta Rio Branco;Globo;sem_link;sem link no site;6;
 Assistir TV Liberal;Globo;sem_link;sem link no site;6;
-EPTV Central;Globo;sem_link;sem link no site;6;
 EPTV Central;Globo;inconclusivo;rede: URLError;0;https://stlvs.click/globosp-eptvcentral/tracks-v1a1/mono.m3u8
+EPTV Central;Globo;sem_link;sem link no site;6;
 Globo Bahia (BA TV);Globo;sem_link;sem link no site;6;
 Globo Bauru;Globo;sem_link;sem link no site;6;
 Globo Brasília (DF);Globo;sem_link;sem link no site;6;
@@ -77,8 +77,8 @@ TV Integração;Globo;sem_link;sem link no site;6;
 TV Integração;Globo;sem_link;sem link no site;6;
 TV Integração;Globo;sem_link;sem link no site;6;
 TV Mirante;Globo;sem_link;sem link no site;6;
-TV Vanguarda;Globo;sem_link;sem link no site;5;
-TV Vanguarda;Globo;sem_link;sem link no site;5;
+TV Vanguarda;Globo;sem_link;sem link no site;6;
+TV Vanguarda;Globo;sem_link;sem link no site;6;
 Elemental Channel;Música;ok;video ok;0;https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 Kpop TV Play;Música;ok;video ok;0;https://cloud.tvomix.com/KPOPMIX/tracks-v1a1/mono.m3u8
 Music TOP;Música;ok;video ok;0;https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
@@ -109,7 +109,7 @@ Record News;Notícias;ok;video ok;0;https://run-rnw-rn.otteravision.com/rnw/rn/r
 SBT News;Notícias;youtube;player do YouTube (nao abre no SS IPTV);6;
 Sky News;Notícias;ok;video ok;0;https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
 TV Jornal Interior;Notícias;quebrado;sem resposta;6;https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8
-TV Osório News;Notícias;quebrado;sem resposta;4;https://stmv2.srvsh.com.br/0003/0003/chunklist_w1580813999.m3u8
+TV Osório News;Notícias;quebrado;sem resposta;5;https://stmv2.srvsh.com.br/0003/0003/chunklist_w1580813999.m3u8
 TV5Monde;Notícias;ok;video ok;0;https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch_480.m3u8
 Assista TV Amplitude de Juína (MT) Online Grátis em;Outros;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 Assistir NSC TV Florianópolis;Outros;sem_link;sem link no site;6;
@@ -127,7 +127,7 @@ GLN TV;Outros;ok;video ok;0;https://stmv2.srvsh.com.br/gerson8874/gerson8874/chu
 ISTV;Outros;sem_link;sem link no site;6;
 Inova TV;Outros;sem_link;sem link no site;6;
 Loading TV;Outros;ok;video ok;0;https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-Londrina TV;Outros;quebrado;sem resposta;3;https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w770337069.m3u8
+Londrina TV;Outros;quebrado;sem resposta;4;https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w770337069.m3u8
 Master TV;Outros;ok;video ok;0;https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 Mega TV;Outros;ok;video ok;0;https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 Nova Barreiros Web TV;Outros;ok;video ok;0;https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
@@ -140,7 +140,7 @@ Rede Premium;Outros;sem_link;sem link no site;6;
 Rede Web TV;Outros;ok;video ok;0;https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8
 Séries Clássicas;Outros;ok;video ok;0;https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1074554632.m3u8
 TOP TV Paraná;Outros;ok;video ok;0;https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-TV Alternativa;Outros;ok;video ok;0;https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+TV Alternativa;Outros;quebrado;sem resposta;1;https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 TV Alterosa;Outros;sem_link;sem link no site;6;
 TV Centro América;Outros;sem_link;sem link no site;6;
 TV Câmara dos Deputados;Outros;quebrado;sem resposta;6;https://stream3.camara.gov.br/tv1/manifest.m3u8
@@ -150,7 +150,7 @@ TV Goiânia;Outros;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Japi;Outros;inconclusivo;rede: URLError;0;https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 TV Justiça;Outros;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Master;Outros;ok;video ok;0;https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1177863025.m3u8
-TV Nova Play;Outros;ok;video ok;0;https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
+TV Nova Play;Outros;quebrado;sem resposta;1;https://stream1.freetv.fun/play-tv-1.m3u8
 TV Oeste;Outros;sem_link;sem link no site;6;
 TV Ouro Negro;Outros;ok;video ok;0;https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 TV Pombal;Outros;ok;video ok;0;https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/main_stream.m3u8
@@ -160,8 +160,8 @@ TV Subaé;Outros;sem_link;sem link no site;6;
 TV São Francisco;Outros;sem_link;sem link no site;6;
 TV UESB;Outros;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Web Sul Bahia;Outros;ok;video ok;0;https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w108206305.m3u8
-TVC / TV Cidade Araçatuba;Outros;sem_link;sem link no site;5;
-TVE Bahia;Outros;sem_link;sem link no site;5;
+TVC / TV Cidade Araçatuba;Outros;sem_link;sem link no site;6;
+TVE Bahia;Outros;sem_link;sem link no site;6;
 TVE RS;Outros;ok;video ok;0;https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w2134418159_b5728000.m3u8
 Tela Viva;Outros;quebrado;sem resposta;6;https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 Tv Grão Pará;Outros;inconclusivo;rede: URLError;0;https://video01.kshost.com.br:4443/moises3834/moises3834/master.m3u8
@@ -223,7 +223,7 @@ RedeTV Tocantins;RedeTV;ok;video ok;0;https://5ad482a77183d.streamlock.net/admin
 TV Brasília;RedeTV;ok;video ok;0;https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 TV Guará Ao Vivo no Maranhão;RedeTV;sem_link;sem link no site;6;
 TV Maior;RedeTV;sem_link;sem link no site;6;
-TV São Luís;RedeTV;quebrado;sem resposta;1;https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
+TV São Luís;RedeTV;ok;video ok;0;https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 Assistir NSC TV;Religiosos;sem_link;sem link no site;6;
 Boa Vontade. LBV;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 Igreja Universal;Religiosos;ok;video ok;0;https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0fbddf6a-70ed-4128-aef8-f545603a1386.m3u8

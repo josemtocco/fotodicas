@@ -29,8 +29,6 @@ https://stlvs.click/globorj-intertvserramar/tracks-v1a1/mono.m3u8
 https://virtues.live:1936/tvmar/tvmar/chunklist_w1222954213.m3u8
 #EXTINF:-1 tvg-id="tv-gazeta-nm-norte-de-minas" tvg-name="TV Gazeta NM" tvg-logo="" group-title="Globo",TV Gazeta NM
 https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/chunklist_w1690325563.m3u8
-#EXTINF:-1 tvg-id="tv-vanguarda-sao-jose-dos-campos" tvg-name="TV Vanguarda" tvg-logo="" group-title="Globo",TV Vanguarda
-https://stlvs.click/globosp-tvvanguardasjcampos/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="record-tv-belem-para" tvg-name="Record Belém" tvg-logo="" group-title="Record",Record Belém
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="record-mt-tv-conquista" tvg-name="Record MT. Tv Conquista" tvg-logo="https://fotodicas.com/img/tv-conquista.webp" group-title="Record",Record MT. Tv Conquista
@@ -39,8 +37,6 @@ https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-tropical-record-rn" tvg-name="Record RN" tvg-logo="" group-title="Record",Record RN
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/main_stream.m3u8
-#EXTINF:-1 tvg-id="record-rn-tv-tropical" tvg-name="Record RN" tvg-logo="" group-title="Record",Record RN
-https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 #EXTINF:-1 tvg-id="sic-tv-rondonia" tvg-name="Record RO. Sic Tv Rondônia" tvg-logo="" group-title="Record",Record RO. Sic Tv Rondônia
 https://5b33b873179a2.streamlock.net:1443/canal17/livestream/chunklist_w1103931632.m3u8
 #EXTINF:-1 tvg-id="tv-thathi-record-campinas" tvg-name="TV Thathi" tvg-logo="https://fotodicas.com/img/tv-thathi-record-campinas.webp" group-title="Record",TV Thathi
@@ -204,7 +200,7 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-master" tvg-name="TV Master" tvg-logo="" group-title="Outros",TV Master
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1177863025.m3u8
 #EXTINF:-1 tvg-id="tv-nova-play" tvg-name="TV Nova Play" tvg-logo="https://fotodicas.com/img/tv-nova-play.webp" group-title="Outros",TV Nova Play
-https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/play-tv-1.m3u8
 #EXTINF:-1 tvg-id="tv-ouro-negro-bahia" tvg-name="TV Ouro Negro" tvg-logo="https://fotodicas.com/imagens/image_url_header.webp" group-title="Outros",TV Ouro Negro
 https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-pombal-bahia" tvg-name="TV Pombal" tvg-logo="https://fotodicas.com/img/tv-pombal-bahia.webp" group-title="Outros",TV Pombal
@@ -213,9 +209,5 @@ https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/main_stream.m3u8
 https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w108206305.m3u8
 #EXTINF:-1 tvg-id="tve-rs-afiliada-tv-brasil" tvg-name="TVE RS" tvg-logo="" group-title="Outros",TVE RS
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w2134418159_b5728000.m3u8
-#EXTINF:-1 tvg-id="tve-rs" tvg-name="TVE RS" tvg-logo="" group-title="Outros",TVE RS
-https://streaming.procergs.com.br:8443/tve/stve/chunklist_w1580499242.m3u8
 #EXTINF:-1 tvg-id="vintage-tv" tvg-name="Vintage TV" tvg-logo="" group-title="Outros",Vintage TV
 https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
-#EXTINF:-1 tvg-id="Web-Tv-Progresso" tvg-name="Web Tv Progresso" tvg-logo="https://fotodicas.com/img/web-tv-progresso.webp" group-title="Outros",Web Tv Progresso
-https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8
