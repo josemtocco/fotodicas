@@ -106,7 +106,7 @@ https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-universal" tvg-name="Igreja Universal" tvg-logo="https://fotodicas.com/img/tv-universal.webp" group-title="Religiosos",Igreja Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0fbddf6a-70ed-4128-aef8-f545603a1386.m3u8
 #EXTINF:-1 tvg-id="rit-tv" tvg-name="RIT TV" tvg-logo="https://fotodicas.com/img/rit-tv.webp" group-title="Religiosos",RIT TV
-https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="tv-igreja-mundial" tvg-name="TV Igreja Mundial" tvg-logo="https://fotodicas.com/img/tv-igreja-mundial.webp" group-title="Religiosos",TV Igreja Mundial
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="tv-novo-tempo" tvg-name="TV Novo Tempo" tvg-logo="https://fotodicas.com/img/novo-tempo.webp" group-title="Religiosos",TV Novo Tempo
@@ -165,8 +165,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://stmv2.srvsh.com.br/gerson8874/gerson8874/chunklist_w1499238232.m3u8
 #EXTINF:-1 tvg-id="loading-tv" tvg-name="Loading TV" tvg-logo="" group-title="Outros",Loading TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="londrina-tv" tvg-name="Londrina TV" tvg-logo="" group-title="Outros",Londrina TV
-https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w770337069.m3u8
 #EXTINF:-1 tvg-id="master-tv" tvg-name="Master TV" tvg-logo="" group-title="Outros",Master TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="mega-tv" tvg-name="Mega TV" tvg-logo="" group-title="Outros",Mega TV

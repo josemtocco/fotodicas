@@ -29,7 +29,7 @@ All Sports TV;Esporte;youtube;player do YouTube (nao abre no SS IPTV);6;
 CazéTV;Esporte;ok;video ok;0;https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 Motorvision.pt;Esporte;ok;video ok;0;https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
 Red Bull TV;Esporte;ok;video ok;0;https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-Canal 29;Filmes;quebrado;sem resposta;1;https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/chunklist.m3u8
+Canal 29;Filmes;quebrado;sem resposta;2;https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/chunklist.m3u8
 Casablanca (1942);Filmes;sem_link;sem link no site;6;
 Classique TV;Filmes;ok;video ok;0;https://stmv1.srvif.com/classique/classique/playlist.m3u8
 Classique Western;Filmes;ok;video ok;0;https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
@@ -71,7 +71,7 @@ Rede Amazônica Manaus;Globo;sem_link;sem link no site;6;
 TV Clube;Globo;sem_link;sem link no site;6;
 TV Diário;Globo;sem_link;sem link no site;6;
 TV Gazeta;Globo;ok;video ok;0;https://virtues.live:1936/tvmar/tvmar/chunklist_w1222954213.m3u8
-TV Gazeta NM;Globo;ok;video ok;0;https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/chunklist_w1690325563.m3u8
+TV Gazeta NM;Globo;quebrado;sem resposta;1;https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/chunklist_w1690325563.m3u8
 TV Gazeta Vitória (ES);Globo;sem_link;sem link no site;6;
 TV Integração;Globo;sem_link;sem link no site;6;
 TV Integração;Globo;sem_link;sem link no site;6;
@@ -127,7 +127,7 @@ GLN TV;Outros;ok;video ok;0;https://stmv2.srvsh.com.br/gerson8874/gerson8874/chu
 ISTV;Outros;sem_link;sem link no site;6;
 Inova TV;Outros;sem_link;sem link no site;6;
 Loading TV;Outros;ok;video ok;0;https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-Londrina TV;Outros;quebrado;sem resposta;5;https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w770337069.m3u8
+Londrina TV;Outros;quebrado;sem resposta;6;https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w770337069.m3u8
 Master TV;Outros;ok;video ok;0;https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 Mega TV;Outros;ok;video ok;0;https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 Nova Barreiros Web TV;Outros;ok;video ok;0;https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
@@ -162,7 +162,7 @@ TV UESB;Outros;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Web Sul Bahia;Outros;ok;video ok;0;https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w108206305.m3u8
 TVC / TV Cidade Araçatuba;Outros;sem_link;sem link no site;6;
 TVE Bahia;Outros;sem_link;sem link no site;6;
-TVE RS;Outros;ok;video ok;0;https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w2134418159_b5728000.m3u8
+TVE RS;Outros;inconclusivo;rede: URLError;0;https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w2134418159_b5728000.m3u8
 Tela Viva;Outros;quebrado;sem resposta;6;https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 Tv Grão Pará;Outros;inconclusivo;rede: URLError;0;https://video01.kshost.com.br:4443/moises3834/moises3834/master.m3u8
 Tv Progresso;Outros;sem_link;sem link no site;6;
@@ -227,7 +227,7 @@ TV São Luís;RedeTV;ok;video ok;0;https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8
 Assistir NSC TV;Religiosos;sem_link;sem link no site;6;
 Boa Vontade. LBV;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 Igreja Universal;Religiosos;ok;video ok;0;https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0fbddf6a-70ed-4128-aef8-f545603a1386.m3u8
-RIT TV;Religiosos;ok;video ok;0;https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+RIT TV;Religiosos;ok;video ok;0;https://acesso.ecast.site:3648/live/ritlive.m3u8
 Rede Brasil RBC;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
 Rede Gospel;Religiosos;ok;video ok;0;https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 Rede Vida;Religiosos;youtube;player do YouTube (nao abre no SS IPTV);6;
@@ -247,7 +247,7 @@ Rede Massa;SBT;sem_link;sem link no site;6;
 SBT;SBT;ok;video ok;0;https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 SBT Brasília (DF);SBT;quebrado;sem resposta;6;https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8
 SBT Cuiabá;SBT;inconclusivo;HTTP 403 (geo/login);0;https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/chunklist_w189963462.m3u8
-SBT Interior (SP);SBT;quebrado;sem resposta;1;https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+SBT Interior (SP);SBT;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 SBT Pará;SBT;quebrado;sem resposta;6;https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8
 SBT RJ;SBT;sem_link;sem link no site;6;
 SBT RS;SBT;quebrado;sem resposta;6;https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8
