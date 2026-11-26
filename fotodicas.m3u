@@ -165,6 +165,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/index.m3u8
 #EXTINF:-1 tvg-id="loading-tv" tvg-name="Loading TV" tvg-logo="" group-title="Outros",Loading TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="londrina-tv" tvg-name="Londrina TV" tvg-logo="" group-title="Outros",Londrina TV
+https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w770337069.m3u8
 #EXTINF:-1 tvg-id="master-tv" tvg-name="Master TV" tvg-logo="" group-title="Outros",Master TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="mega-tv" tvg-name="Mega TV" tvg-logo="" group-title="Outros",Mega TV
