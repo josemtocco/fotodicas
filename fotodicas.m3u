@@ -4,7 +4,7 @@ https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-english" tvg-name="Al Jazeera English" tvg-logo="https://fotodicas.com/img/al-jazeera-english.webp" group-title="Notícias",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="canal-rural" tvg-name="Canal Rural" tvg-logo="https://fotodicas.com/img/canal-rural.webp" group-title="Notícias",Canal Rural
-https://stream01.canalrural.com.br/crur/cr2/playlist.m3u8
+https://isaocorp.cloudecast.com/canalrural/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cbs-news-24" tvg-name="CBS News 24/7" tvg-logo="https://fotodicas.com/img/cbs_news.webp" group-title="Notícias",CBS News 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="dw-news" tvg-name="DW News" tvg-logo="https://fotodicas.com/img/dw-news.webp" group-title="Notícias",DW News
@@ -14,9 +14,11 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.
 #EXTINF:-1 tvg-id="rai-news-24" tvg-name="Rai News 24" tvg-logo="https://fotodicas.com/img/rai-news-24.webp" group-title="Notícias",Rai News 24
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-id="record-news" tvg-name="Record News" tvg-logo="https://fotodicas.com/img/record-news.webp" group-title="Notícias",Record News
-https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-id="sky-news" tvg-name="Sky News" tvg-logo="https://fotodicas.com/img/sky-news.webp" group-title="Notícias",Sky News
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="tv-osorio-news" tvg-name="TV Osório News" tvg-logo="https://fotodicas.com/img/tv-osorio-news.webp" group-title="Notícias",TV Osório News
+https://stmv2.srvsh.com.br/0003/0003/chunklist_w1580813999.m3u8
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5Monde" tvg-logo="https://fotodicas.com/img/tv5monde.webp" group-title="Notícias",TV5Monde
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch_480.m3u8
 #EXTINF:-1 tvg-id="eptv-central" tvg-name="EPTV Central" tvg-logo="" group-title="Globo",EPTV Central
@@ -36,9 +38,7 @@ https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-tropical-record-rn" tvg-name="Record RN" tvg-logo="https://fotodicas.com/img/tv-tropical.webp" group-title="Record",Record RN
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/main_stream.m3u8
 #EXTINF:-1 tvg-id="sic-tv-rondonia" tvg-name="Record RO. Sic Tv Rondônia" tvg-logo="" group-title="Record",Record RO. Sic Tv Rondônia
-https://video01.logicahost.com.br/tvguara23/tvguara23/chunklist_w493500341.m3u8
-#EXTINF:-1 tvg-id="record-sao-jose-rio-preto" tvg-name="Record São José do Rio Preto" tvg-logo="" group-title="Record",Record São José do Rio Preto
-https://alanza.iptv2022.com/sh/RecordTV/tracks-v1a1/mono.m3u8
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/chunklist_w1103931632.m3u8
 #EXTINF:-1 tvg-id="tv-thathi-record-campinas" tvg-name="TV Thathi" tvg-logo="https://fotodicas.com/img/tv-thathi-record-campinas.webp" group-title="Record",TV Thathi
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w401498443.m3u8
 #EXTINF:-1 tvg-id="band-campinas" tvg-name="Band Campinas (SP)" tvg-logo="https://fotodicas.com/img/band-campinas.webp" group-title="Band",Band Campinas (SP)
@@ -46,7 +46,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="rbatv-band-para" tvg-name="Band Pará  RBA TV" tvg-logo="https://fotodicas.com/img/rbatv-band-para.webp" group-title="Band",Band Pará  RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-id="imperial-tv" tvg-name="Imperial Tv (RedeTv)" tvg-logo="https://fotodicas.com/img/imperial-tv.webp" group-title="RedeTV",Imperial Tv (RedeTv)
-https://acesso.ecast.site:3630/live/imperiallive.m3u8
+https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
 #EXTINF:-1 tvg-id="o-dia-redetv-piaui" tvg-name="O Dia TV" tvg-logo="https://fotodicas.com/img/o-dia-tv.webp" group-title="RedeTV",O Dia TV
 https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w1224783481.m3u8
 #EXTINF:-1 tvg-id="redetv-a-critica" tvg-name="RedeTV AM (TV A Crítica)" tvg-logo="https://fotodicas.com/img/tv-a-critica.webp" group-title="RedeTV",RedeTV AM (TV A Crítica)
@@ -68,19 +68,19 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="sbt-cuiaba-mt" tvg-name="SBT Cuiabá" tvg-logo="" group-title="SBT",SBT Cuiabá
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 #EXTINF:-1 tvg-id="sbt-interior" tvg-name="SBT Interior (SP)" tvg-logo="" group-title="SBT",SBT Interior (SP)
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="sbt-rondonopolis-mt" tvg-name="SBT Rondonópolis" tvg-logo="" group-title="SBT",SBT Rondonópolis
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8
 #EXTINF:-1 tvg-id="tv-aratu-sbt-bahia" tvg-name="TV Aratu" tvg-logo="" group-title="SBT",TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv-cidade-verde-sbt-pi" tvg-name="TV Cidade Verde" tvg-logo="" group-title="SBT",TV Cidade Verde
-https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
+https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w694025832.m3u8
 #EXTINF:-1 tvg-id="cazetv" tvg-name="CazéTV" tvg-logo="https://fotodicas.com/img/cazetv.webp" group-title="Esporte",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="motorvision-pt" tvg-name="Motorvision.pt" tvg-logo="https://fotodicas.com/img/motorvision-pt.webp" group-title="Esporte",Motorvision.pt
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-id="red-bull-tv" tvg-name="Red Bull TV" tvg-logo="https://fotodicas.com/img/all-sports.webp" group-title="Esporte",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-id="canal-29" tvg-name="Canal 29" tvg-logo="https://fotodicas.com/img/canal-29.webp" group-title="Filmes",Canal 29
-https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="classique-tv" tvg-name="Classique TV" tvg-logo="https://fotodicas.com/img/classique-tv.webp" group-title="Filmes",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="classique-western-tv" tvg-name="Classique Western" tvg-logo="https://fotodicas.com/img/classique-tv-western.webp" group-title="Filmes",Classique Western
@@ -92,15 +92,15 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-carioca.net" tvg-name="TV Carioca" tvg-logo="https://fotodicas.com/img/tv-carioca.webp" group-title="Filmes",TV Carioca
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w527646062.m3u8
 #EXTINF:-1 tvg-id="tv-classicos" tvg-name="TV Clássicos" tvg-logo="https://fotodicas.com/img/tv-classicos.webp" group-title="Filmes",TV Clássicos
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="digital-birigui" tvg-name="TV Digital Birigui" tvg-logo="https://fotodicas.com/img/tv-digital-birigui.webp" group-title="Filmes",TV Digital Birigui
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-j-sid" tvg-name="TV J.Sid" tvg-logo="" group-title="Filmes",TV J.Sid
-https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-mega-cine" tvg-name="TV Megacine" tvg-logo="https://fotodicas.com/img/tv-megacine.webp" group-title="Filmes",TV Megacine
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-series" tvg-name="TV Séries" tvg-logo="https://fotodicas.com/img/tv-series.webp" group-title="Filmes",TV Séries
+https://video05.logicahost.com.br/tvjsid/tvjsid/main_stream.m3u8
+#EXTINF:-1 tvg-id="tv-manchete" tvg-name="TV Manchete" tvg-logo="https://fotodicas.com/img/tv-manchete.webp" group-title="Filmes",TV Manchete
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mega-cine" tvg-name="TV Megacine" tvg-logo="https://fotodicas.com/img/tv-megacine.webp" group-title="Filmes",TV Megacine
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="web-tv-xtreme" tvg-name="Web TV Xtreme" tvg-logo="https://fotodicas.com/img/web-tv-xtreme.webp" group-title="Filmes",Web TV Xtreme
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-universal" tvg-name="Igreja Universal" tvg-logo="https://fotodicas.com/img/tv-universal.webp" group-title="Religiosos",Igreja Universal
@@ -112,7 +112,7 @@ https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="tv-novo-tempo" tvg-name="TV Novo Tempo" tvg-logo="https://fotodicas.com/img/novo-tempo.webp" group-title="Religiosos",TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 #EXTINF:-1 tvg-id="tv-pai-eterno" tvg-name="TV Pai Eterno" tvg-logo="https://fotodicas.com/img/tv-pai-eterno.webp" group-title="Religiosos",TV Pai Eterno
-https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1610240856.m3u8
+https://video09.logicahost.com.br/paieterno/paieterno/main_stream.m3u8
 #EXTINF:-1 tvg-id="tv-seculo-21" tvg-name="TV Século 21" tvg-logo="https://fotodicas.com/img/tv-seculo-21.webp" group-title="Religiosos",TV Século 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
 #EXTINF:-1 tvg-id="gospel-cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://fotodicas.com/img/gospel-cartoon.webp" group-title="Desenhos",Gospel Cartoon
@@ -122,15 +122,15 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-id="retro-cartoon" tvg-name="Retro Cartoon" tvg-logo="https://fotodicas.com/img/retro-cartoon.webp" group-title="Desenhos",Retro Cartoon
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1755898069.m3u8
 #EXTINF:-1 tvg-id="elemental-channel" tvg-name="Elemental Channel" tvg-logo="https://fotodicas.com/img/elemental-channel.webp" group-title="Música",Elemental Channel
-https://acesso.ecast.site:3575/stream/play.m3u8
+https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 #EXTINF:-1 tvg-id="kpop-tv-play" tvg-name="Kpop TV Play" tvg-logo="https://fotodicas.com/img/kpop-tv-play.webp" group-title="Música",Kpop TV Play
-https://stream1.freetv.fun/kpop-play-tv-1.m3u8
+https://cloud.tvomix.com/KPOPMIX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="music-top" tvg-name="Music TOP" tvg-logo="https://fotodicas.com/img/music-top.webp" group-title="Música",Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-id="retro-music" tvg-name="Retro Music Television" tvg-logo="https://fotodicas.com/img/retro-music-television.webp" group-title="Música",Retro Music Television
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="retro-plus" tvg-name="Retro Plus" tvg-logo="https://fotodicas.com/img/retro-plus.webp" group-title="Música",Retro Plus
-https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w146572337.m3u8
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 #EXTINF:-1 tvg-id="top-mix-tv" tvg-name="TOP Mix TV" tvg-logo="https://fotodicas.com/img/top-mix-tv.webp" group-title="Música",TOP Mix TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-id="top-tv" tvg-name="Top TV" tvg-logo="https://fotodicas.com/img/top-tv.webp" group-title="Música",Top TV
@@ -149,7 +149,7 @@ https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-brasil" tvg-name="Rede Brasil" tvg-logo="https://fotodicas.com/img/rede-brasil.webp" group-title="TV Aberta",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="tv-brasil-2" tvg-name="TV Brasil 2" tvg-logo="https://fotodicas.com/img/tv-brasil2.webp" group-title="TV Aberta",TV Brasil 2
+#EXTINF:-1 tvg-id="tv-brasil" tvg-name="TV Brasil" tvg-logo="" group-title="TV Aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="tv-brasil-internacional" tvg-name="TV Brasil Internacional" tvg-logo="https://fotodicas.com/img/tv-brasil-internacional.webp" group-title="TV Aberta",TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
@@ -162,7 +162,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w722768048.m
 #EXTINF:-1 tvg-id="dw-english" tvg-name="DW English" tvg-logo="" group-title="Outros",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="gln-tv" tvg-name="GLN TV" tvg-logo="" group-title="Outros",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/index.m3u8
+https://stmv2.srvsh.com.br/gerson8874/gerson8874/chunklist_w1499238232.m3u8
 #EXTINF:-1 tvg-id="loading-tv" tvg-name="Loading TV" tvg-logo="" group-title="Outros",Loading TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="londrina-tv" tvg-name="Londrina TV" tvg-logo="" group-title="Outros",Londrina TV
@@ -172,11 +172,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/
 #EXTINF:-1 tvg-id="mega-tv" tvg-name="Mega TV" tvg-logo="" group-title="Outros",Mega TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="nova-barreiros-web-tv" tvg-name="Nova Barreiros Web TV" tvg-logo="" group-title="Outros",Nova Barreiros Web TV
-https://srv5.zcast.com.br/rbr/rbr/playlist.m3u8
+https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-clone" tvg-name="Rede Clone TV" tvg-logo="" group-title="Outros",Rede Clone TV
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/master.m3u8
 #EXTINF:-1 tvg-id="rede-familia" tvg-name="Rede Família" tvg-logo="" group-title="Outros",Rede Família
-https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
 #EXTINF:-1 tvg-id="rede-web-tv-rwtv" tvg-name="Rede Web TV" tvg-logo="" group-title="Outros",Rede Web TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="rtp-madeira" tvg-name="RTP Madeira" tvg-logo="" group-title="Outros",RTP Madeira
@@ -196,7 +196,7 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/master.m3u8
 #EXTINF:-1 tvg-id="tv-japi" tvg-name="TV Japi" tvg-logo="https://fotodicas.com/img/tv-japi.webp" group-title="Outros",TV Japi
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-master" tvg-name="TV Master" tvg-logo="" group-title="Outros",TV Master
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1177863025.m3u8
 #EXTINF:-1 tvg-id="tv-nova-play" tvg-name="TV Nova Play" tvg-logo="https://fotodicas.com/img/tv-nova-play.webp" group-title="Outros",TV Nova Play
 https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv-ouro-negro-bahia" tvg-name="TV Ouro Negro" tvg-logo="https://fotodicas.com/tv/ao-vivo/tv-ouro-negro-salvador-bahia-ao-vivo-online-24-horas-hd-gratis.webp" group-title="Outros",TV Ouro Negro
@@ -208,4 +208,4 @@ https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w108206305.m3u8
 #EXTINF:-1 tvg-id="tve-rs-afiliada-tv-brasil" tvg-name="TVE RS" tvg-logo="https://fotodicas.com/img/tve-rs.webp" group-title="Outros",TVE RS
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w2134418159_b5728000.m3u8
 #EXTINF:-1 tvg-id="vintage-tv" tvg-name="Vintage TV" tvg-logo="" group-title="Outros",Vintage TV
-https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w96755895.m3u8
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
