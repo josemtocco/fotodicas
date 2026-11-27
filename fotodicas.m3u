@@ -183,8 +183,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/index.m3u8
 #EXTINF:-1 tvg-id="series-classicas" tvg-name="Séries Clássicas" tvg-logo="https://fotodicas.com/img/series-classicas.webp" group-title="Outros",Séries Clássicas
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1074554632.m3u8
-#EXTINF:-1 tvg-id="top-tv-parana" tvg-name="TOP TV Paraná" tvg-logo="" group-title="Outros",TOP TV Paraná
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv-alternativa-gazeta-ma" tvg-name="TV Alternativa" tvg-logo="" group-title="Outros",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-destak" tvg-name="TV Destak" tvg-logo="https://fotodicas.com/img/tv-destak.webp" group-title="Outros",TV Destak
