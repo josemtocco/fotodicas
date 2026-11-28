@@ -39,7 +39,7 @@ TV Carioca;Filmes;ok;video ok;0;https://video03.logicahost.com.br/cariocainterna
 TV Clássicos;Filmes;ok;video ok;0;https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 TV Digital Birigui;Filmes;ok;video ok;0;https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 TV J.Sid;Filmes;ok;video ok;0;https://video05.logicahost.com.br/tvjsid/tvjsid/main_stream.m3u8
-TV Manchete;Filmes;ok;video ok;0;https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+TV Manchete;Filmes;ok;video ok;0;https://stmv1.srvif.com/classique/classique/playlist.m3u8
 TV Megacine;Filmes;ok;video ok;0;https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 TV Natal;Filmes;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Séries;Filmes;ok;video ok;0;https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
@@ -111,7 +111,7 @@ Sky News;Notícias;ok;video ok;0;https://linear901-oo-hls0-prd-gtm.delivery.skyc
 TV Jornal Interior;Notícias;quebrado;sem resposta;6;https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1573018325.m3u8
 TV Osório News;Notícias;ok;video ok;0;https://stmv2.srvsh.com.br/0003/0003/chunklist_w1580813999.m3u8
 TV5Monde;Notícias;ok;video ok;0;https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch_480.m3u8
-Assista TV Amplitude de Juína (MT) Online Grátis em;Outros;quebrado;sem resposta;1;https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+Assista TV Amplitude de Juína (MT) Online Grátis em;Outros;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 Assistir NSC TV Florianópolis;Outros;sem_link;sem link no site;6;
 Assistir TV Amplitude de Juara;Outros;ok;video ok;0;https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 CATVE;Outros;ok;video ok;0;https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w722768048.m3u8
@@ -139,8 +139,8 @@ Rede Família;Outros;ok;video ok;0;https://run-rufb.otteravision.com/run/rufb/ru
 Rede Premium;Outros;sem_link;sem link no site;6;
 Rede Web TV;Outros;ok;video ok;0;https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8
 Séries Clássicas;Outros;ok;video ok;0;https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w1074554632.m3u8
-TOP TV Paraná;Outros;ok;video ok;0;https://isaocorp.cloudecast.com/toptv/index.m3u8
-TV Alternativa;Outros;ok;video ok;0;https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+TOP TV Paraná;Outros;ok;video ok;0;https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+TV Alternativa;Outros;ok;video ok;0;https://stmv5.samcast.com.br:443/wagner7919/wagner7919/playlist.m3u8
 TV Alterosa;Outros;sem_link;sem link no site;6;
 TV Centro América;Outros;sem_link;sem link no site;6;
 TV Câmara dos Deputados;Outros;quebrado;sem resposta;6;https://stream3.camara.gov.br/tv1/manifest.m3u8
@@ -150,7 +150,7 @@ TV Goiânia;Outros;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Japi;Outros;inconclusivo;rede: URLError;0;https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 TV Justiça;Outros;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Master;Outros;ok;video ok;0;https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1177863025.m3u8
-TV Nova Play;Outros;ok;video ok;0;https://isaocorp.cloudecast.com/playtv/tracks-v1a1/mono.m3u8
+TV Nova Play;Outros;quebrado;sem resposta;1;https://stream1.freetv.fun/play-tv-1.m3u8
 TV Oeste;Outros;sem_link;sem link no site;6;
 TV Ouro Negro;Outros;ok;video ok;0;https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 TV Pombal;Outros;ok;video ok;0;https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/main_stream.m3u8
@@ -260,9 +260,9 @@ TV Difusora São Luís;SBT;sem_link;sem link no site;6;
 TV Jornal;SBT;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Serra Dourada;SBT;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Sorocaba;SBT;sem_link;sem link no site;6;
-Canal Futura;TV Aberta;inconclusivo;rede: URLError;0;https://tv.unisc.br/hls/test.m3u8
+Canal Futura;TV Aberta;ok;video ok;0;https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 MasterChef Brasil;TV Aberta;ok;video ok;0;https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c638884cb3e65cef046a0f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759f9bac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce02a4b43aa4d3d0733d4bb08aa7f4fc2d50e8c62288afbdc7c30280b5f820c5bb6f60cf5f8b55d448b38c3022d72b4179f0a6173e3e66ed992e229dc12cc2fad36b5a8c2e8a2301c525c51836ad13b1c4c2a3db88d7c81c05eb7a0f6019e1bc249347b77e7b681eb0c48eed69fee998da98c55857afd882ac15036ae0c9705e35aef3afd59f7b11ce7c5cfaed85f3378d0783787d9d656cb1520c295c6b1d3c8d0766e90f5153774c862e7122a2d9cf2f1e4e5a925bbb9398cb8651c7795df15dbd5858ae1b4825d8f65e4f3b4c96d0c1e3844358f53f4ce369b318b2cf38e0137061c11fed4058dc6fe5b336940c9d20e85434be88bdac3f90729cf661442a7318c084b3cbe410616d224f79e337b9a665bd5475ad56c75d112b2e856b0cdbcc80921bcd2cb43851ec9bc18d7f00db12d711935bafc2850525f3fb7ca631e3b6dcc55eeb09bb927e96162297d4ca6cff2dae08e5984a875b77bc768e5351c/180/1920x1080_6046040/index.m3u8
-Play TV;TV Aberta;quebrado;sem resposta;1;https://isaocorp.cloudecast.com/playtv/playlist.m3u8
+Play TV;TV Aberta;ok;video ok;0;https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 Rede Brasil;TV Aberta;ok;video ok;0;https://redebrasil.nuvemplay.live/hls/stream.m3u8
 SBT SP;TV Aberta;youtube;player do YouTube (nao abre no SS IPTV);6;
 TV Brasil;TV Aberta;ok;video ok;0;https://tvbrasil-stream.ebc.com.br/index.m3u8
